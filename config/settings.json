@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "House of Lushella",
+    "niche": "digital products (printables, templates, digital art, planners)",
+    "tone": "warm, empowering, creative, aspirational",
+    "target_audience": "women 25-45 interested in home organization, creativity, and digital tools",
+    "product_store_urls": {
+      "payhip": "",
+      "etsy": ""
+    },
+    "hashtag_base": ["#HouseOfLushella", "#DigitalProducts", "#Printables"]
+  },
+  "anthropic": {
+    "model": "claude-opus-4-7",
+    "max_tokens": 16000
+  },
+  "platforms": ["tiktok", "instagram", "pinterest", "facebook"],
+  "paths": {
+    "outputs": "outputs",
+    "products": "products"
+  },
+  "schedule": {
+    "run_time": "06:00"
+  }
+}
